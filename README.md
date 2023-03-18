@@ -1,8 +1,8 @@
-#ArduinoDev-test
+# ArduinoDev-test
 
 A test project for developing embedded C on the Arduino Mega 2560 board.
 
-##Docker setup with VS Code
+## Docker setup with VS Code
 Here is how to setup the project.
 
 ### Prerequisites
