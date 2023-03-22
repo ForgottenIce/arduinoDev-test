@@ -19,7 +19,7 @@ The following needs to be installed:
 5. Open VS Code
 6. Navigate to Remote Explorer on the activity bar
 7. Click *"Attach to Container"* on the *arduino-dev-container*
-8. If asked, Open the folder *"/arduinoDev"* inside the container
+8. Open the folder *"/arduinoDev"* inside the container
 
 ## Building
 Inside the dev container, simply run `make`. The compiled output will be stored in the *out* folder.
